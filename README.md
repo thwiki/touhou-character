@@ -1,4 +1,5 @@
-# thb-calendar
+# touhou-character
+东方角色列表
 
 ## Project setup
 ```
